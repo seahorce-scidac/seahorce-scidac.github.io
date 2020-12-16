@@ -37,7 +37,7 @@ plugins:
   - jekyll-feed
 
 # Dependencies
-markdown:         redcarpet
+#markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
