@@ -11,7 +11,7 @@ order: 1
 My current research focuses on understanding the light we see from neutron star mergers
 (kilonovae). I use multidimensional hydrodynamic and radiation transport simulations to predict trends in kilonova light curves. My current focus is on the effects of the relativistic jet that's embedded in the radioactive ejecta.
 
-<img align="right" style="padding-left: 15px; padding-bottom: 15px" src="{{ site.baseurl }}files/sedona.png" width="200">
+<img align="right" style="padding-left: 15px; padding-bottom: 15px" src="/files/sedona.png" width="200">
 My primary tool is Sedona, a 3D Monte Carlo radiation transport code, which I also develop. My development work has mostly focused on performance and parallelization, with the goal of improving the code's speed and scalability on supercomputers like [NERSC's](https://www.nersc.gov/) [cori](https://docs.nersc.gov/systems/cori/). Projects I've undertaken include:
  - Implementing checkpointing and restarting (including saving and restoring the state of the random number generators)
  - Adding multithreading to the opacity and temperature calculations
@@ -20,7 +20,7 @@ My primary tool is Sedona, a 3D Monte Carlo radiation transport code, which I al
  - Updating makefiles and build workflow, and modernizing the development workflow
 
 ### Non-Blocking MPI Collectives in FLASH
-<img align="left" style="padding-right: 15px; padding-bottom: 15px" src="{{ site.baseurl }}files/sc17.png" width="300">
+<img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/sc17.png" width="300">
 Communication and calculations can both be time-consuming for high-performance codes, but use different resources. If possible, it can be advantageous to overlap them. I implemented this strategy in FLASH, a 3D multiphysics code, overlapping the calculation-heavy nuclear reaction network with the communication-heavy self-gravity solver. I tested the scaling and performance of this approach, and found that its effectiveness depended greatly on the MPI implementation used. I presented a peer-reviewed [poster](https://www.dropbox.com/sh/ixa8axlcce1zwmk/AABQ8wqIJYwoKaKU0-sK6Q76a?dl=0) on this project at Supercomputing17.
 
 
