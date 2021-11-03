@@ -8,8 +8,8 @@ order: 1
 <a href="https://ui.adsabs.harvard.edu/search/q=klion%2C%20h&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">ADS</a> \| <a href="https://scholar.google.com/citations?hl=en&user=Td1D_bsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>
 
 ### Kilonova Light Curves with Sedona
-My current research focuses on understanding the light we see from neutron star mergers
-(kilonovae). I use multidimensional hydrodynamic and radiation transport simulations to predict trends in kilonova light curves. My current focus is on the effects of the relativistic jet that's embedded in the radioactive ejecta.
+My PhD thesis focused on understanding the light we see from neutron star mergers
+(kilonovae). I used multidimensional hydrodynamic and radiation transport simulations to predict trends in kilonova light curves. My focus was on the effects of the relativistic jet that's embedded in the radioactive ejecta.
 
 <img align="right" style="padding-left: 15px; padding-bottom: 15px" src="/files/sedona.png" width="200">
 My primary tool is Sedona, a 3D Monte Carlo radiation transport code, which I also develop. My development work has mostly focused on performance and parallelization, with the goal of improving the code's speed and scalability on supercomputers like [NERSC's](https://www.nersc.gov/) [cori](https://docs.nersc.gov/systems/cori/). Projects I've undertaken include:
