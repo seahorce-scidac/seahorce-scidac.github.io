@@ -5,7 +5,7 @@ permalink: /research/
 order: 1
 ---
 
-<a href="https://ui.adsabs.harvard.edu/search/q=klion%2C%20h&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">ADS</a> \| <a href="https://scholar.google.com/citations?hl=en&user=Td1D_bsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>
+<a href="https://ui.adsabs.harvard.edu/search/q=klion%2C%20h&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">ADS</a> \| <a href="https://scholar.google.com/citations?hl=en&user=Td1D_bsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a> \| <a href="https://www.github.com/hklion" target="_blank">Github</a>
 
 ### Kilonova Light Curves with Sedona
 My PhD thesis focused on understanding the light we see from neutron star mergers
