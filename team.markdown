@@ -5,7 +5,7 @@ permalink: /team/
 order: 2
 ---
 
-
+<!-- 
 <table>
     <tr>
         <th>Team Members</th>
@@ -33,17 +33,19 @@ order: 2
     <tr>
         <td><img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/harper.jpeg" width="200"><a href="https://hetland.github.io">Harper Simmons</a> (UW-APL)</td>
     </tr>
-</table>
+</table> -->
 
 ## Project lead
-<img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/rob.jpeg" width="200">
+
+### <img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/rob.jpeg" width="200">
 [Rob Hetland](https://hetland.github.io) (PNNL)
 
-## REMORA developmentn
-<img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/ann.jpeg" width="200">
+## REMORA development
+
+### <img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/ann.jpeg" width="200">
 Ann Almgren](https://ccse.lbl.gov/people/almgren/) (LBNL)
 
-<img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/hannah.jpeg" width="200">
+### <img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/hannah.jpeg" width="200">
 [Hannah Klion](https://www.klion.org/) (LBNL)
 
 ## MPAS-O coordination
