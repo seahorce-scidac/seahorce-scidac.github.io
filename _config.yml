@@ -21,6 +21,8 @@
 title: Seahorçe
 description: SciDAC5 project
 github_username:  seahorce-scidac
+baseurl: "https://seahorce-scidac.github.io" # the subpath of your site, e.g. /blog
+url: "https://seahorce-scidac.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
