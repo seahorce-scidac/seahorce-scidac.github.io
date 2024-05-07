@@ -37,18 +37,17 @@ order: 2
 
 ## Project lead
 
-### <img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/rob.jpeg" width="200">
-<br>
+<p><img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/rob.jpeg" width="200"></p>
 [Rob Hetland](https://hetland.github.io) (PNNL)
 
 ## REMORA development
 
-### <img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/ann.jpeg" width="200">
+<p><img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/ann.jpeg" width="200"></p>
 <br>
 
-Ann Almgren](https://ccse.lbl.gov/people/almgren/) (LBNL)
+[Ann Almgren](https://ccse.lbl.gov/people/almgren/) (LBNL)
 
-### <img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/hannah.jpeg" width="200">
+<p><img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/hannah.jpeg" width="200">P</p>
 [Hannah Klion](https://www.klion.org/) (LBNL)
 
 ## MPAS-O coordination
