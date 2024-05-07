@@ -37,8 +37,14 @@ order: 2
 
 ## Project lead
 
-<p><img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/rob.jpeg" width="200"></p>
+<div>
+## Project lead
+
+<img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/rob.jpeg" width="200">
 [Rob Hetland](https://hetland.github.io) (PNNL)
+</div>
+<!-- <img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/rob.jpeg" width="200">
+[Rob Hetland](https://hetland.github.io) (PNNL) -->
 
 ## REMORA development
 
