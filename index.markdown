@@ -6,6 +6,8 @@ layout: default
 title: Home
 ---
 
+# Study for Exascale Advances in a High-resolution Ocean using ROMS Coupled to E3SM (SEAHORÇE)
+
 ## Project overview 
 
 Numerical resolution is widely considered to be a dominant factor in numerical model fidelity, driving earth system models (ESMs) toward the smallest horizontal resolution possible for a given application. However, increasing horizontal resolution comes with significant computational costs, placing substantial constraints on the resolution global ESMs can achieve when simulating long-term climate variability. Yet there is strong interest in understanding both how climate variability affects coastal regions – in order to provide actionable projections – and how unresolved processes in the open ocean may affect the global climate simulations, both of which require resolution at least an order of magnitude higher than current global ESMs can provide. This project focuses on improved representations of small-scale coastal and open-ocean processes such as river plumes, coastal fronts, and meso- and submesoscale eddy processes. We will do this by creating and evaluating a new component of the Energy Exascale Earth System Model (E3SM), based on the Regional Ocean Modeling System (ROMS), a community standard coastal ocean model that has been in use for over two decades. Through coupling with E3SM’s MPAS-O global ocean component we will investigate the representation of small-scale processes across model resolution, targeting improvements in the fidelity with which E3SM resolves nonlinear ocean dynamics.
