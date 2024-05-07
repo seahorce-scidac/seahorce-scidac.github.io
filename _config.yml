@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Seahorçe SciDAC5 project
-description: Seahorçe Scidac project web page
+title: Seahorçe
+description: SciDAC5 project
 github_username:  seahorce-scidac
 
 # Build settings
