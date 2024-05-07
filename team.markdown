@@ -37,27 +37,19 @@ order: 2
 
 ## Project lead
 
-<div>
-## Project lead
-
-<img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/rob.jpeg" width="200">
+<img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/rob.jpeg" width="200"><br>
 [Rob Hetland](https://hetland.github.io) (PNNL)
-</div>
-<!-- <img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/rob.jpeg" width="200">
-[Rob Hetland](https://hetland.github.io) (PNNL) -->
 
 ## REMORA development
 
-<p><img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/ann.jpeg" width="200"></p>
-<br>
-
+<img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/ann.jpeg" width="200"><br>
 [Ann Almgren](https://ccse.lbl.gov/people/almgren/) (LBNL)
 
-<p><img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/hannah.jpeg" width="200">P</p>
+<img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/hannah.jpeg" width="200"><br>
 [Hannah Klion](https://www.klion.org/) (LBNL)
 
 ## MPAS-O coordination
-<img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/kat.jpeg" width="200">
+<img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/kat.jpeg" width="200"><br>
 [Kat Smith](https://organizations.lanl.gov/acgi/get-to-know-us/kat-smith/) (LANL)
 
 ## E3SM/MOAB coupler development
