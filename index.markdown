@@ -7,3 +7,4 @@ title: Home
 ---
 <img align="left" src="/files/seahorce_logo.jpg" width="200" style="padding-right: 15px; padding-bottom: 15px">
 
+lorem ipsum delorum 

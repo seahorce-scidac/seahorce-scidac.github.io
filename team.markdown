@@ -6,7 +6,7 @@ order: 2
 ---
 
 ## Project lead
-<img align="right" style="padding-left: 15px; padding-bottom: 15px" src="files/rob.jpg" hight="200">
+<img align="right" style="padding-left: 15px; padding-bottom: 15px" src="/files/rob.jpg" width="200">
 [Rob Hetland](https://hetland.github.io) (PNNL)
 
 ## REMORA developmentn
