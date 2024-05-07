@@ -38,11 +38,14 @@ order: 2
 ## Project lead
 
 ### <img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/rob.jpeg" width="200">
+<br>
 [Rob Hetland](https://hetland.github.io) (PNNL)
 
 ## REMORA development
 
 ### <img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/ann.jpeg" width="200">
+<br>
+
 Ann Almgren](https://ccse.lbl.gov/people/almgren/) (LBNL)
 
 ### <img align="left" style="padding-right: 15px; padding-bottom: 15px" src="/files/hannah.jpeg" width="200">
