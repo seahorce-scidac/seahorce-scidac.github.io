@@ -26,9 +26,6 @@ order: 2
 <img style="padding-right:  5px; padding-bottom:  5px" src="/files/vijay.jpeg" width="200">
 [Vijay Mahadevan](https://www.vijaysm.com/) (ANL)
 
-<img style="padding-right:  5px; padding-bottom:  5px" src="/files/iulian.jpeg" width="200">
-[Iulian Grindeanu](https://www.anl.gov/profile/iulian-r-grindeanu) (ANL)
-
 ## Regional Modeling Lead: 
 <img style="padding-right:  5px; padding-bottom:  5px" src="/files/harper.jpeg" width="200">
 [Harper Simmons](https://hetland.github.io) (UW-APL)
